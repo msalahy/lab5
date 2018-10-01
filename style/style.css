@@ -1,0 +1,53 @@
+
+body {
+  background-image: url("water.jpg");
+  color: white;
+}
+
+h1{
+  color: green;
+font-family: 'Indie Flower', cursive;
+text-shadow: 4px 4px 4px #aaa;
+font-size: 4.3em;
+text-align: center;
+}
+h3 {
+  color: green;
+  font-size: 2.5em;
+  text-align: center;
+}
+.planet {
+  font-family: 'Indie Flower', cursive;
+  background-color: white;
+  color: blue;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+table {
+  font-family: 'Raleway', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+tr {
+  border: 0px;
+  color: blue;
+}
+th {
+  background-color: orange;
+  color: #D6D2F0;
+  font-size: 1.1em;
+  width: 80px;
+  padding: 20px 5px 20px 5px;
+  text-align: center;
+  border: 1px solid #120D24;
+}
+td {
+  background-color: white;
+  color: #120D24;
+  font-size: 1.1em;
+  padding: 20px 10px 20px 10px;
+  text-align: left;
+  border: 1px solid #120D24;
+}
