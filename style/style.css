@@ -7,10 +7,10 @@ body
 h1
 {
   color: green;
-font-family: 'Indie Flower', cursive;
-text-shadow: 4px 4px 4px #aaa;
-font-size: 4.3em;
-text-align: center;
+  font-family: 'Indie Flower', cursive;
+  text-shadow: 4px 4px 4px #aaa;
+  font-size: 4.3em;
+  text-align: center;
 }
 h3 
 {
